@@ -1,0 +1,18 @@
+<theme>
+    <variables>
+        <systemName>KiriKiri</systemName>
+        <systemDescription>KiriKiri is an open-source visual novel scripting engine created by Japanese developer "w.dee", first released in 1998. It pairs the KAG (KiriKiri Adventure Game System) scripting framework with an object-oriented language called TJS, and has been used in numerous commercial visual novels, most notably TYPE-MOON's Fate/stay night and Fate/hollow ataraxia.</systemDescription>
+        <systemManufacturer>w.dee</systemManufacturer>
+        <systemReleaseYear>1998</systemReleaseYear>
+        <systemReleaseDate>1998-01-01</systemReleaseDate>
+        <systemReleaseDateFormated>1998</systemReleaseDateFormated>
+        <systemHardwareType>Engine</systemHardwareType>
+        <systemCoverSize>4-3</systemCoverSize>
+        <systemCoverSizeType>landscape</systemCoverSizeType>
+        <systemColor>7a3ab3</systemColor>
+        <systemColorPalette1>7a3ab3</systemColorPalette1>
+        <systemColorPalette2>451e66</systemColorPalette2>
+        <systemColorPalette3>ddc2f0</systemColorPalette3>
+        <systemColorPalette4>241033</systemColorPalette4>
+    </variables>
+</theme>

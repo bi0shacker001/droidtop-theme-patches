@@ -1,0 +1,18 @@
+<theme>
+    <variables>
+        <systemName>RPG Maker MV</systemName>
+        <systemDescription>RPG Maker MV is a game creation engine released in 2015 by Kadokawa (developed by KADOKAWA/Yoji Ojima's team), built on NW.js/JavaScript. It let creators export the same project to Windows, macOS, Linux, iOS, Android, and browsers, and became one of the most widely used tools for indie RPGs of its era.</systemDescription>
+        <systemManufacturer>Kadokawa</systemManufacturer>
+        <systemReleaseYear>2015</systemReleaseYear>
+        <systemReleaseDate>2015-10-23</systemReleaseDate>
+        <systemReleaseDateFormated>October 23, 2015</systemReleaseDateFormated>
+        <systemHardwareType>Engine</systemHardwareType>
+        <systemCoverSize>4-3</systemCoverSize>
+        <systemCoverSizeType>landscape</systemCoverSizeType>
+        <systemColor>2f6fb3</systemColor>
+        <systemColorPalette1>2f6fb3</systemColorPalette1>
+        <systemColorPalette2>16406b</systemColorPalette2>
+        <systemColorPalette3>b7d4f0</systemColorPalette3>
+        <systemColorPalette4>0a1f33</systemColorPalette4>
+    </variables>
+</theme>
