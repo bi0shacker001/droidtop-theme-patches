@@ -1,0 +1,9 @@
+{
+  "systems": [
+    { "id": "renpy" },
+    { "id": "rpgmaker_mv" },
+    { "id": "rpgmaker_mz" },
+    { "id": "rpgmaker_vxace" },
+    { "id": "kirikiri" }
+  ]
+}

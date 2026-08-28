@@ -1,0 +1,29 @@
+﻿<!--
+Template for a per-system metadata patch fragment. Copy this to
+system/metadata/<id>.xml (see systems.json for the real system ids that
+need one) and fill in real, sourced values - no placeholder/invented
+content.
+
+Field names match real ES-DE's own per-system metadata schema exactly
+(confirmed against the bundled decaffe-es-de theme's own
+system/metadata/*.xml files) - every field below is real and optional;
+only include what you can source for real.
+-->
+<theme>
+    <variables>
+        <systemName></systemName>
+        <systemDescription></systemDescription>
+        <systemManufacturer></systemManufacturer>
+        <systemReleaseYear></systemReleaseYear>
+        <systemReleaseDate></systemReleaseDate>
+        <systemReleaseDateFormated></systemReleaseDateFormated>
+        <systemHardwareType></systemHardwareType>
+        <systemCoverSize></systemCoverSize>
+        <systemCoverSizeType></systemCoverSizeType>
+        <systemColor></systemColor>
+        <systemColorPalette1></systemColorPalette1>
+        <systemColorPalette2></systemColorPalette2>
+        <systemColorPalette3></systemColorPalette3>
+        <systemColorPalette4></systemColorPalette4>
+    </variables>
+</theme>
